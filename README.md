@@ -11,6 +11,7 @@ A curated list of ASCII Art resources
   * https://www.rfc-editor.org/rfc/rfc2223.txt (deprecated by 7322)
   * https://www.rfc-editor.org/rfc/rfc7990.txt
 * https://asciidoctor.org/docs/asciidoc-vs-markdown/
+* https://github.com/asciimoth/3a
 
 ## Services
 
@@ -31,6 +32,7 @@ A curated list of ASCII Art resources
 * https://github.com/moul/sapin
 * https://github.com/ivanceras/svgbob
 * https://github.com/sigvef/sigvehtml
+* https://github.com/asciimoth/aaa
 
 ## Golf
 
@@ -40,6 +42,7 @@ A curated list of ASCII Art resources
 
 * https://www.gridsagegames.com/rexpaint/gallery.html
 * https://www.asciiart.eu
+* https://github.com/asciimoth/3a_storage
 
 ## Editors
 
